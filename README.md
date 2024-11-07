@@ -1,4 +1,4 @@
-# Case Study on Brazilian E-Commerce Dataset by Olist 
+# SQL Case Study on Brazilian E-Commerce Dataset by Olist 
 
 This repository contains a detailed case study on data analysis for the Brazilian e-commerce company, Olist. Using SQL queries, the analysis covers multiple aspects of Olist's operations, including order trends, customer behaviors, seller performance, and payment preferences. This project aims to derive insights that can guide strategic decisions, such as optimizing inventory, enhancing customer retention, and improving logistics.
 
